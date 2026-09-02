@@ -1,0 +1,6 @@
+[submodule "repos/code_quality_tools"]
+	path = repos/code_quality_tools
+	url = git@github.com:aanwarts/code_quality_tools.git
+[submodule "repos/code_analysis"]
+	path = repos/code_analysis
+	url = git@github.com:aanwarts/code_analysis.git
